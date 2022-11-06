@@ -1,6 +1,9 @@
 public class Main {
     public static void main(String[] args) {
         Boy b=new Boy();
+
+        //The Inheritance between classes
+
         // b.setName("khaled abu muen");
         // System.out.println(b.getName());
         // b.setHadLoveBall(false);

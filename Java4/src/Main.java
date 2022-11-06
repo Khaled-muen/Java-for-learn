@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+
+        //the Composition Relationship (has-A) between object 
+
         // Car c1 =new Car();
         // c1.setColor("Blue");
         // Engine e1=new Engine("germany",135);
